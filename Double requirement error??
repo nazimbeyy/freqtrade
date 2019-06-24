@@ -1,0 +1,6 @@
+Hi
+
+What should I do for below error?
+
+(.env) defno@defno-VB:~/freqtrade$ pip3 install -r requirements.txt
+ERROR: Double requirement given: python-rapidjson==0.6.3 (from -r requirements.txt (line 27)) (already in python-rapidjson (from -r requirements.txt (line 18)), name='python-rapidjson')
